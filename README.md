@@ -1,3 +1,6 @@
+![image](image/Checker1.jpg)
+![image](image/Checker2.jpg)
+
 # GrAPiC 
 
 ## Starting
