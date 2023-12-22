@@ -16,6 +16,15 @@ Caractéristiques clés :
 
 However, there are no constraints on the movements, which means that they must be placed correctly, even as in the real game!
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Game_Checkers
+```
+
+- Install CodeBlocks (information at the bottom of this page)
+
 # GrAPiC 
 
 ## Starting
